@@ -1,6 +1,6 @@
 # SectionedRecyclerViewAdapter
 
-This is an abstract recycler view adapter that helps you create sectioned table views on Xamarin.iOS.
+This is an abstract recycler view adapter that helps you create sectioned table views on Xamarin.Android.
 
 ![Image](img1.png)
 
